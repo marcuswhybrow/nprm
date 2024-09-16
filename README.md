@@ -4,7 +4,7 @@
 nix profile install github:marcuswhybrow/nprm
 ```
 
-#Usage 
+## Usage 
 
 ```shell
 nprm
